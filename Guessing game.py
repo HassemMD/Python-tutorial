@@ -17,7 +17,7 @@ while guess != number:
         print(f"congratulations! you guessed the Correct number {number} in {guess_count} try!")
     else:
         print(f"congratulations! you guessed the Correct number {number} in {guess_count} tries!")
-print("THANKS FOR PLAYING !!!"
+print("THANKS FOR PLAYING !!!")
 
 
 
